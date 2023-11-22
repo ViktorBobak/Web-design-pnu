@@ -1,3 +1,22 @@
+#first{
+    background-color: rgb(247, 161, 175);   
+    color: blue ;
+   }
+   #second{
+    background-color: green;   
+    color: white ;
+   }#third{
+    background-color: blue;   
+    color: gold;
+   }
+   #fourth{
+    background-color: black;   
+    color: red;
+   } 
+   #fifth{
+    background-color:black;   
+    color: white;
+   }
 .button{
     color: rgb(56, 153, 64);
     border-collapse: collapse;
