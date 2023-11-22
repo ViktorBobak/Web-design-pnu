@@ -13,6 +13,12 @@
 .a2{
     font-size: 20%;
 }
+.row {
+    display: flex;
+          flex-wrap: wrap;
+          flex-direction: row;
+
+  }
 @media (min-width: 992px) {
     .col-lg-1 {
     flex-basis: 8.33%;
