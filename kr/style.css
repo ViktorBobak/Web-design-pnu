@@ -1,0 +1,49 @@
+table {
+        border-collapse: collapse;
+        color: purple;
+        background-color: yellow;
+    }
+.a3{
+    background-color: black;
+}
+.a1{
+    background-color: blue;
+    color: white;
+}
+.a2{
+    background-color: indianred;
+    color: white;
+}
+.a4{
+    background-color: yellowgreen;
+    color: white;
+}
+    th,td {
+        border: 1px solid black;
+        padding: 8px;
+        text-align: left;
+    }
+    h4{
+        float: right;
+        display: block;
+        background-color: goldenrod;
+        color: white;
+        font-size: 120%;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    h1{
+        font-family: 'Roboto Condensed', sans-serif;
+        text-align: center;
+    }
+    h2{
+        font-family: 'Roboto Slab', serif;
+        text-align: center;
+    }
+    h3{
+        font-family: 'Vina Sans', sans-serif;
+        text-align: center;
+    }
+    p,li,td,th{
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    
